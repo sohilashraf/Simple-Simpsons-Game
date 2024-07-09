@@ -1,9 +1,10 @@
-# c# game using system windows form and drawing. This is a simple game made for a multimedia course.
+# simple simpsons game
+This c++ game was designed for programming 1 course by using only a 2D array data structure.
+* with the following features:
 
-to test the game:
-
-move with arrows
-jump with space
-to throw multiple kunai press m
-to throw a single kunai at a time press n
-to use laser press L Video_2023_10_02-3.webm
+  * move the hero right and left using button A & D
+  * jump with space
+  * Enemies with different behavior  
+  * single and multiple shooting bullets
+  * Climbing ladder
+  * a room with collecting stars game
