@@ -1,6 +1,6 @@
 # Simple Simpsons Game
 This c++ game was designed for programming 1 course by using only a 2D array data structure.
-* With the following features:
+* The game has the following features:
 
   * move the hero right and left using button A & D
   * jump with space
