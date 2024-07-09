@@ -1,4 +1,4 @@
-c# game using system windows form and drawing. This is a simple game made for a multimedia course.
+# c# game using system windows form and drawing. This is a simple game made for a multimedia course.
 
 to test the game:
 
