@@ -1,0 +1,3 @@
+C:\Users\sohila\MSA\semester 6\Graphics\simpsons_game\x64\Debug\simpsons_game.exe
+C:\Users\z004z8tw\Downloads\simpsons_game\simpsons_game\x64\Debug\simpsons_game.exe
+C:\Users\sohila\Downloads\simpsons_game (1)\simpsons_game\simpsons_game\x64\Debug\simpsons_game.exe
